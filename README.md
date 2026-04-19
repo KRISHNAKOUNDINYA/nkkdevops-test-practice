@@ -1,1 +1,1 @@
-# nkkdevops-test-practice
+# nkkdevops-practice for Linux
